@@ -173,7 +173,7 @@ button{
         background: linear-gradient(to bottom, #93C572 55%, #C8EBB1 45%);
     }
     .socials{
-        top:95%;
+        top:85%;
         right:40%;
         height:5rem;
 
@@ -181,20 +181,23 @@ button{
     .main{
         position: absolute;
         top:7rem;
+        left:4rem;
     }
     .curve{
         position: absolute;
+        top:4rem;
         height:71rem;
         right:10%;
         rotate:90deg;
     }
     .curve img{
         position: relative;
+        left:30%;
         right:5%
     }
     .side{
         top:60%;
-        left:40%;
+        left:35%;
     }
     
 }
