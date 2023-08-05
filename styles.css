@@ -17,6 +17,7 @@
     position: absolute;
     top: 0;
     right: 30%;
+
 }
 nav {
     width: 90%;
@@ -167,6 +168,22 @@ button{
 @media(max-width:768px){
     html{
         font-size: 45%;
+    }
+    .full-container{
+        background: linear-gradient(to bottom, #93C572 55%, #C8EBB1 45%);
+    }
+    .socials{
+        top:95%;
+        right:40%;
+        height:5rem;
+
+    }
+    .curve img{
+        height:0rem;
+    }
+    .side{
+        top:60%;
+        left:40%;
     }
     
 }
