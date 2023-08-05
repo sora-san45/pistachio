@@ -178,8 +178,19 @@ button{
         height:5rem;
 
     }
+    .main{
+        position: absolute;
+        top:7rem;
+    }
+    .curve{
+        position: absolute;
+        height:71rem;
+        right:10%;
+        rotate:90deg;
+    }
     .curve img{
-        height:0rem;
+        position: relative;
+        right:5%
     }
     .side{
         top:60%;
